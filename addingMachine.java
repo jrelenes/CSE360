@@ -15,7 +15,7 @@ package cse360assign3;
 
 /**
  * adds, subtracts and returns values
- * @author Not-yours
+ * @author Jose Elenes
  *
  */
 

@@ -22,7 +22,7 @@ package cse360assign3;
 /**
  * This class extends addingMachine. This uses
  * the second assignment for CSE 360 to extend functionality.
- * @author Not-yours
+ * @author Jose Elenes
  *
  */
 
